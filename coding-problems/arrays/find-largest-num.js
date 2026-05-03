@@ -1,5 +1,5 @@
 function findLargest(numbers) {
-    let largest;
+    let largest = -Infinity;
 
     for (let num of numbers) {
         if (num > largest) {
