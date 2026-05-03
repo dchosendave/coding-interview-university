@@ -4,7 +4,7 @@ function reverseArray(numbers)
 
     if (!Array.isArray(numbers) || numbers.length === 0)
     {
-        return 'Invalid array';
+        return [];
     }
 
     for (let i = numbers.length - 1; i >= 0; i--)
