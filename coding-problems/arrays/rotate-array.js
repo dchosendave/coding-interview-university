@@ -5,7 +5,7 @@ function rotate(numbers, times) {
     }
 
     for (let i = 0; i < numbers.length; i++) {
-
+        
     }
 
     return numbers;
